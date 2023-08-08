@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "scheme": "acme",
+    "web": {
+      "bundler": "metro"
+    },
+    "name": "Serigne-Cheikh",
+    "slug": "Serigne-Cheikh"
+  }
+}
